@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="f_excel" type="PLAIN_TEXT" />
+      <mapping pattern="11" type="PLAIN_TEXT" />
+      <mapping ext="html_170512" type="PLAIN_TEXT" />
+      <mapping ext="html_bate1" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="XHTML" />
+    </extensionMap>
+  </component>
+</application>
